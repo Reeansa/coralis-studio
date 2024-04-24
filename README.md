@@ -2,7 +2,9 @@
 ## Case Study
 Please create a web application with Codeigniter Framework with the following function:
 1. Registration form with email, name, password, and a profile picture upload.
-2. A login page and landing page showing the submitted information. • A proper forgot password feature
+2. A login page and landing page showing the submitted information.
+3. A proper forgot password feature
+
 Please note that **SQL files** must be included.
 
 ## Git Settings
