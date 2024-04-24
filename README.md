@@ -24,3 +24,7 @@ Please note that **SQL files** must be included.
 ### alert (Notification)
 ![image](https://github.com/Reeansa/coralis-studio/assets/92510276/d3fff40f-985d-4092-a15d-33dc4ee57a1e)
 
+### Showing The Submitted Information
+![image](https://github.com/Reeansa/coralis-studio/assets/92510276/8b445d19-0806-433a-b9b3-6cc819b7686f)
+
+
