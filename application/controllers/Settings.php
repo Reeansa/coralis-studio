@@ -46,14 +46,14 @@ class Settings extends CI_Controller
         $mail->isSMTP();
         $mail->Host = 'smtp.gmail.com';
         $mail->SMTPAuth = true;
-        $mail->Username = '20104102@ittelkom-pwt.ac.id';
-        $mail->Password = '!SGReean2D!';
+        $mail->Username = 'raihanfebriyansahh@gmail.com';
+        $mail->Password = 'hwlbaojffmvowdni';
         $mail->Port = 587;
 
         //Recipients
-        $mail->setFrom('20104102@ittelkom-pwt.ac.id', 'Raihan Febriyansah');
+        $mail->setFrom('raihanfebriyansahh@gmail.com', 'Raihan Febriyansah');
         $mail->addAddress($email, $name);
-        $mail->addReplyTo('20104102@ittelkom-pwt.ac.id');
+        $mail->addReplyTo('raihanfebriyansahh@gmail.com');
 
         //Content
         $mail->isHTML(true);
