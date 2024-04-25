@@ -6,7 +6,9 @@ Please create a web application with Codeigniter Framework with the following fu
 3. A proper forgot password feature
 
 Please note that **SQL files** must be included.
-
+## Version
+**this is codeigniter 3 version**, dont forget to see **codeigniter 4 version**
+link here : https://github.com/Reeansa/coralis-studio-ci4
 ## Git Settings
 1. do `composer install` to install PHPmailer, because if you forget the password it will be sent via email.
    
